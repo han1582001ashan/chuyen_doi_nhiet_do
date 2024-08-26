@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chuyen_doi_nhiet_do/1.0.0": {
+        "runtime": {
+          "chuyen_doi_nhiet_do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chuyen_doi_nhiet_do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
